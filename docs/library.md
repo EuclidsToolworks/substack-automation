@@ -19,6 +19,8 @@ Chris Schwarz offers free downloads of all of his books in PDF format. All of th
 
 #### Chair making
 
+- [Build A Chair From Bulls%$t](https://lostartpress.com/products/build-a-chair-from-bulls-t?_pos=1&_psq=+build+a+chair&_ss=e&_v=1.0) [(pdf)](https://blog.lostartpress.com/wp-content/uploads/2025/05/BACFBS_book.pdf) [(full-size patterns)](https://blog.lostartpress.com/wp-content/uploads/2025/05/BACFBS-full-size-patterns-for-download-and-printing.pdf)
+
 
 ### Books on Green Woodworking
 
