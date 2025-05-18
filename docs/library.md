@@ -4,7 +4,7 @@
 
 This publishing house is a godsend, in my humble opinion. Among other things, I'm a certifiable bibliophile. I even pursued a graduate degree in Library Science for three semesters because my wife is a librarian and I love books so much.[^1] All that to say, I pay attention to the way books are published in this country. ***Lost Art Press*** deserves physical shelf space in our library, which is prime real estate in our house. ***LAP*** is my go-to for books on all aspects of hand tool woodworking, from history to design to how-to.
 
-??? note "Full disclaimer"
+!!! note "Full disclaimer"
     I will happily and shamelessly drive traffic to the site as often as I can.  All the resources in this library have been   purchased by me with my own money, and I've either read, am reading, or will read every single one of them. 
 
 Chris Schwarz offers free downloads of all of his books in PDF format. All of the works that I've purchased which have a free download will download to your computer via the ***LAP*** link. Books that don't have a free download will take you to the ***LAP*** site. It's well worth a look if you don't have these books.
