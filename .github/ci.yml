@@ -25,5 +25,5 @@ jobs:
       - name: Install Dependencies
         run: |
           poetry install --with dev --no-interaction
-      - name: build and deploy gh-pages using poetry and mkdocs
+      - name: deploy gh-pages using poetry and mkdocs
         run: poetry run mkdocs gh-deploy --force
