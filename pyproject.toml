@@ -1,0 +1,25 @@
+[project]
+name = "substack-automation"
+version = "0.1.0"
+description = "Substack automation for Euclid's Toolworks"
+authors = [
+    {name = "Kurt W. Andrews",email = "kurt.w.andrews@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+
+requires-python = ">=3.13"
+dependencies = [
+]
+
+[tool.poetry]
+package-mode = false
+
+[tool.poetry.group.dev.dependencies]
+mkdocs = "^1.6.1"
+mkdocs-material = "^9.6.14"
+mkdocs-glightbox = "^0.4.0"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

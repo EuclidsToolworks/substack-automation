@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project-specific files and directories
+#  These are files and directories that are specific to your project and should not be
+#  included in version control. You can add any files or directories that are specific to
+#  your project and should not be included in version control.
+
+#  This is a directory that is used by the stash command in git. It is used to store
+#  changes that are not yet ready to be committed. You can add this directory to your
+#  .gitignore file to prevent it from being included in version control.
+.stash/
