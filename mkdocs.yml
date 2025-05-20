@@ -45,13 +45,21 @@ plugins:
   - blog:
       enabled: true
       blog_dir: .
+      post_date_format: yyyy-MM-dd
       post_url_format: "{slug}"
   - rss:
+      enabled: true
       match_path: posts/.*
-      pretty_print: true
       date_from_meta:
         as_creation: date.created
         as_update: date.updated
+      abstract_chars_count: 0
+      use_page_content: true
+      image: true
+      feed_title: Euclid's Toolworks Substack
+      feed_url: https://euclidstoolworks.github.io/substack-automation/feed_rss_created.xml
+      pretty_print: true
+
 
 extra:
   social:
