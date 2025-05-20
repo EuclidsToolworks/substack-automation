@@ -53,6 +53,7 @@ plugins:
       date_from_meta:
         as_creation: date.created
         as_update: date.updated
+      image: preferred
       abstract_chars_count: 0
       use_page_content: true
       feed_title: Euclid's Toolworks Substack
