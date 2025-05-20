@@ -55,7 +55,6 @@ plugins:
         as_update: date.updated
       abstract_chars_count: 0
       use_page_content: true
-      image: true
       feed_title: Euclid's Toolworks Substack
       feed_url: https://euclidstoolworks.github.io/substack-automation/feed_rss_created.xml
       pretty_print: true
