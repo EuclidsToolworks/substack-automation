@@ -42,6 +42,16 @@ markdown_extensions:
 
 plugins:
   - glightbox
+  - blog:
+      enabled: true
+      blog_dir: .
+      post_url_format: "{slug}"
+  - rss:
+      match_path: posts/.*
+      pretty_print: true
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
 
 extra:
   social:
@@ -49,5 +59,3 @@ extra:
       link: https://euclidstoolworks.substack.com
 
 copyright: Copyright © 2025 Euclid's Toolworks
-
-
