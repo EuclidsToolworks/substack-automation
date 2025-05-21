@@ -3,7 +3,7 @@ name = "substack-automation"
 version = "0.1.0"
 description = "Substack automation for Euclid's Toolworks"
 authors = [
-    {name = "Kurt W. Andrews",email = "kurt.w.andrews@gmail.com"}
+  {name = "Kurt W. Andrews",email = "kurt.w.andrews@gmail.com"}
 ]
 license = {text = "MIT"}
 readme = "README.md"
@@ -13,6 +13,9 @@ dependencies = [
 ]
 
 [tool.poetry]
+packages = [
+  {include = "substack", from = "src"}
+]
 package-mode = false
 
 [tool.poetry.group.dev.dependencies]
@@ -20,6 +23,9 @@ mkdocs = "^1.6.1"
 mkdocs-material = "^9.6.14"
 mkdocs-glightbox = "^0.4.0"
 mkdocs-rss-plugin = "^1.17.1"
+
+[tool.poetry.scripts]
+substack = "substack.cli:app"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
