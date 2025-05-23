@@ -35,9 +35,10 @@ Chris Schwarz offers free downloads of all of his books in PDF format. All of th
 - [Ingenious Mechanicks](https://lostartpress.com/products/ingenious-mechanicks?_pos=1&_psq=+ingenious&_ss=e&_v=1.0) [(pdf)](https://blog.lostartpress.com/wp-content/uploads/2024/12/Ingenious_Mechanicks_4.pdf)
 - [Video: Build a Roman Workbench](https://lostartpress.com/products/video-build-a-roman-workbench?_pos=4&_psq=+workbench&_ss=e&_v=1.0)[^4]
 
-### Books on Green Woodworking
+### Books by Other Authors
 
-- [Make a Chair from a Tree: Third Edition](https://lostartpress.com/products/make-a-chair-from-a-tree)
+- [Make a Chair from a Tree: Third Edition **by Jennie Alexander**](https://lostartpress.com/products/make-a-chair-from-a-tree)
+- [Mechanic's Companion **by Peter Nicholson**](https://lostartpress.com/products/mechanics-companion?_pos=1&_psq=+Mechanics&_ss=e&_v=1.0)
 
 [^1]: There's only one university in Missouri where you can get a Library Science degree. The commute was ridiculous for a guy with a large family and a full-time career, so I gave it up when a new baby came along.
 
