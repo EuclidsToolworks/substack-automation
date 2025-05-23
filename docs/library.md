@@ -37,8 +37,8 @@ Chris Schwarz offers free downloads of all of his books in PDF format. All of th
 
 ### Books by Other Authors
 
-- [Make a Chair from a Tree: Third Edition **by Jennie Alexander**](https://lostartpress.com/products/make-a-chair-from-a-tree)
-- [Mechanic's Companion **by Peter Nicholson**](https://lostartpress.com/products/mechanics-companion?_pos=1&_psq=+Mechanics&_ss=e&_v=1.0)
+- [Make a Chair from a Tree: Third Edition *by Jennie Alexander*](https://lostartpress.com/products/make-a-chair-from-a-tree)
+- [Mechanic's Companion *by Peter Nicholson*](https://lostartpress.com/products/mechanics-companion?_pos=1&_psq=+Mechanics&_ss=e&_v=1.0)
 
 [^1]: There's only one university in Missouri where you can get a Library Science degree. The commute was ridiculous for a guy with a large family and a full-time career, so I gave it up when a new baby came along.
 
