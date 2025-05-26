@@ -829,6 +829,18 @@ files = [
 ]
 
 [[package]]
+name = "svgwrite"
+version = "1.4.3"
+description = "A Python library to create SVG drawings."
+optional = false
+python-versions = ">=3.6"
+groups = ["dev"]
+files = [
+    {file = "svgwrite-1.4.3-py3-none-any.whl", hash = "sha256:bb6b2b5450f1edbfa597d924f9ac2dd099e625562e492021d7dd614f65f8a22d"},
+    {file = "svgwrite-1.4.3.zip", hash = "sha256:a8fbdfd4443302a6619a7f76bc937fc683daf2628d9b737c891ec08b8ce524c3"},
+]
+
+[[package]]
 name = "tzdata"
 version = "2024.2"
 description = "Provider of IANA time zone data"
@@ -905,4 +917,4 @@ watchmedo = ["PyYAML (>=3.10)"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.13,<4"
-content-hash = "cd97b2fe8d76c235b4d67c3204a58a7cf558bc56ad7fa6877380e2f6045855aa"
+content-hash = "02b884f588ae1434b8cfaa4b32bf21a6b75386a8f5f8e7fcddd42cc46df55d79"
