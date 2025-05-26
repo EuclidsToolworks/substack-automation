@@ -95,7 +95,7 @@ This article by *Lost Art Press* answers the question in the authors' own words.
 
 [With All the Precision Possible: Roubo on Furniture New Deluxe Edition *[translated with annotations] by Donald C. Williams, Michele Pietryka-Pagán & Philippe Lafargue*](https://lostartpress.com/products/with-all-the-precision-possible-roubo-on-furniture-deluxe-edition?_pos=1&_psq=+Roubo&_ss=e&_v=1.0)
 
-### Paul Sellers[^7]
+### Paul Sellers[^6]
 
 Paul has several different websites and blogs that I follow, and I learn a lot from him. I mean, the guy has a video on how to make the front knob (tote?) on a plane with hand tools—no lathe. That’s something to aspire to.
 
@@ -109,7 +109,7 @@ Paul has several different websites and blogs that I follow, and I learn a lot f
 
 [Essential Woodworking Hand Tools (Book & DVD Set)](https://rokesmith.com/product/essential-woodworking-hand-tools-book-dvd-set)
 
-## Other Sellers[^6]
+## Other Sellers[^7]
 
 [Ruler & Compass: Practical Geometric Constructions *by Andrew Sutton*](https://bookshop.org/p/books/ruler-compass-practical-geometric-constructions-andrew-sutton/12543278?ean=9781952178092)
 
@@ -123,6 +123,6 @@ Paul has several different websites and blogs that I follow, and I learn a lot f
 
 [^5]: The audio book is read by Roy Underhill of The Woodwright Shop fame.
 
-[^6]: My first choice for buying books is always the original author or publisher, next independent booksellers. You'll only see big corporate booksellers on this page as a last resort.
+[^6]: I don't follow or subscribe to many YouTube woodworkers, but Paul's experience makes his content worth the trouble.
 
-[^7]: I don't follow or subscribe to many YouTube woodworkers, but Paul's experience makes his content worth the trouble.
+[^7]: My first choice for buying books is always the original author or publisher, next independent booksellers. You'll only see big corporate booksellers on this page as a last resort.
