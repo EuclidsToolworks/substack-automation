@@ -75,8 +75,6 @@ This article by *Lost Art Press* answers the question in the authors' own words.
 
 [The Joiner and Cabinet Maker](https://lostartpress.com/products/the-joiner-and-cabinet-maker-1)[^5]
 
-[Reproducing Antique Furniture: Instructions and Measured Drawings for 40 Classic Projects *By Franklin H. Gottshall*](https://store.doverpublications.com/products/9780486279763)
-
 [The Woodworker: The Charles Hayward Years Vols. 1-4](https://lostartpress.com/products/the-woodworker-vols-1-4?_pos=2&_sid=56eb0681e&_ss=r&variant=41514873454655)
 
 [Making Things Work: Tales from a Cabinetmaker’s Life (Second Edition) *by Nancy R. Hiller*](https://lostartpress.com/products/making-things-work-tales-from-a-cabinetmaker-s-life?_pos=1&_sid=45cd586ce&_ss=r)
@@ -114,6 +112,8 @@ Paul has several different websites and blogs that I follow, and I learn a lot f
 [Essential Woodworking Hand Tools (Book & DVD Set)](https://rokesmith.com/product/essential-woodworking-hand-tools-book-dvd-set)
 
 ## Other Sellers[^7]
+
+[Reproducing Antique Furniture: Instructions and Measured Drawings for 40 Classic Projects *By Franklin H. Gottshall*](https://store.doverpublications.com/products/9780486279763)
 
 [Euclid's Elements: all thirteen books complete in one volume, *trans. Thomas L. Heath* (Green Lion Press, 2002)](https://www.greenlion.com/books/EuclidsElements.html)
 
