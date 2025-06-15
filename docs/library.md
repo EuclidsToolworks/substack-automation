@@ -75,25 +75,27 @@ This article by *Lost Art Press* answers the question in the authors' own words.
 
 [The Joiner and Cabinet Maker](https://lostartpress.com/products/the-joiner-and-cabinet-maker-1)[^5]
 
-[Make a Swedish Tool Chest *with Whitney Miller*](https://lostartpress.com/products/make-a-swedish-tool-chest-with-whitney-miller)
-
 [The Woodworker: The Charles Hayward Years Vols. 1-4](https://lostartpress.com/products/the-woodworker-vols-1-4?_pos=2&_sid=56eb0681e&_ss=r&variant=41514873454655)
 
 [Making Things Work: Tales from a Cabinetmaker’s Life (Second Edition) *by Nancy R. Hiller*](https://lostartpress.com/products/making-things-work-tales-from-a-cabinetmaker-s-life?_pos=1&_sid=45cd586ce&_ss=r)
 
+[Make a Swedish Tool Chest *with Whitney Miller*](https://lostartpress.com/products/make-a-swedish-tool-chest-with-whitney-miller)
+
+[The Art of Joinery, Revised Edition *by Joseph Moxon, commentary by Christopher Schwarz*](https://blog.lostartpress.com/wp-content/uploads/2022/07/AOJ_revised_Jan2020.pdf)
+
 [Mechanick Exercises or The Doctrine of Handy-Works *by Joseph Moxon*](https://www.leevalley.com/en-us/shop/tools/books-and-dvds/115398-mechanick-exercises-or-the-doctrine-of-handy-works?item=20L0359)
 
 [Mechanic's Companion *by Peter Nicholson*](https://lostartpress.com/products/mechanics-companion?_pos=1&_psq=+Mechanics&_ss=e&_v=1.0)
+
+[To Make as Perfectly as Possible – Roubo on Marquetry par André Roubo (traduit du français par Michele Pietryka-Pagán), avec la participation de Don Williams et Philippe Lafargue](https://www.leevalley.com/en-us/shop/tools/books-and-dvds/71187-to-make-as-perfectly-as-possible-roubo-on-marquetry?item=20L0325)
+
+[With All the Precision Possible: Roubo on Furniture New Deluxe Edition *[translated with annotations] by Donald C. Williams, Michele Pietryka-Pagán & Philippe Lafargue*](https://lostartpress.com/products/with-all-the-precision-possible-roubo-on-furniture-deluxe-edition?_pos=1&_psq=+Roubo&_ss=e&_v=1.0)
 
 [The Naked Woodworker (Streaming & Download only) *With Mike Siemsen*](https://lostartpress.com/products/the-naked-woodworker?_pos=4&_psq=+The+woodworker&_ss=e&_v=1.0)
 
 [Principles of Design: Furniture, Pottery & Metalwork *by William H. Varnum*](https://lostartpress.com/products/principles-of-design-furniture-clay-glass?_pos=1&_psq=+Principles+&_ss=e&_v=1.0)
 
 [The Essential Woodworker *by Robert Wearing*](https://lostartpress.com/products/the-essential-woodworker?_pos=1&_psq=+The+Essential&_ss=e&_v=1.0&variant=41325887848511)
-
-[To Make as Perfectly as Possible – Roubo on Marquetry par André Roubo (traduit du français par Michele Pietryka-Pagán), avec la participation de Don Williams et Philippe Lafargue](https://www.leevalley.com/en-us/shop/tools/books-and-dvds/71187-to-make-as-perfectly-as-possible-roubo-on-marquetry?item=20L0325)
-
-[With All the Precision Possible: Roubo on Furniture New Deluxe Edition *[translated with annotations] by Donald C. Williams, Michele Pietryka-Pagán & Philippe Lafargue*](https://lostartpress.com/products/with-all-the-precision-possible-roubo-on-furniture-deluxe-edition?_pos=1&_psq=+Roubo&_ss=e&_v=1.0)
 
 ### Paul Sellers[^6]
 
@@ -110,6 +112,8 @@ Paul has several different websites and blogs that I follow, and I learn a lot f
 [Essential Woodworking Hand Tools (Book & DVD Set)](https://rokesmith.com/product/essential-woodworking-hand-tools-book-dvd-set)
 
 ## Other Sellers[^7]
+
+[Euclid's Elements: all thirteen books complete in one volume, *trans. Thomas L. Heath* (Green Lion Press, 2002)](https://www.greenlion.com/books/EuclidsElements.html)
 
 [Ruler & Compass: Practical Geometric Constructions *by Andrew Sutton*](https://bookshop.org/p/books/ruler-compass-practical-geometric-constructions-andrew-sutton/12543278?ean=9781952178092)
 
