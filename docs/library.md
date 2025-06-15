@@ -75,6 +75,8 @@ This article by *Lost Art Press* answers the question in the authors' own words.
 
 [The Joiner and Cabinet Maker](https://lostartpress.com/products/the-joiner-and-cabinet-maker-1)[^5]
 
+[Reproducing Antique Furniture: Instructions and Measured Drawings for 40 Classic Projects *By Franklin H. Gottshall*](https://store.doverpublications.com/products/9780486279763)
+
 [The Woodworker: The Charles Hayward Years Vols. 1-4](https://lostartpress.com/products/the-woodworker-vols-1-4?_pos=2&_sid=56eb0681e&_ss=r&variant=41514873454655)
 
 [Making Things Work: Tales from a Cabinetmaker’s Life (Second Edition) *by Nancy R. Hiller*](https://lostartpress.com/products/making-things-work-tales-from-a-cabinetmaker-s-life?_pos=1&_sid=45cd586ce&_ss=r)
