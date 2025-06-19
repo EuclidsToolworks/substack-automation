@@ -4,7 +4,7 @@
 
 ### The Big Stuff
 - **Shop Setup**: Wrestling chisels and planes into shape with diamond stones—my shop’s boot camp! *[Dive in](/projects/shop-setup)*  
-- **Roman Workbench**: This joinery monster’s gonna rule my shop, if I don’t muff the tenons. *[Dive in](projects/roman-workbench)*  
+- **Roman Workbench**: This joinery monster’s gonna rule my shop, if I don’t muff the tenons. *[Dive in](./projects/roman-workbench)*  
 - **Tool Chest**: A swanky home for my tools, with joinery that’s basically art. *[Dive in](/projects/tool-chest)*  
 
 ### The Heart Stuff
