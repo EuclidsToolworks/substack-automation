@@ -1,4 +1,4 @@
-# Projects at Euclid’s Toolworks
+# Projects at Euclid’s Toolworks—Option 1
 
 *Hey, woodshop pals! I’m knee-deep in sawdust at Euclid’s Toolworks, learning hand tool woodworking and chasing geometric vibes. Here’s what’s on my bench—jump in with a comment or subscribe to swap shop stories!*
 
