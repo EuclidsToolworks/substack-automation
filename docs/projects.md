@@ -7,7 +7,7 @@ This page is meant to be an index to project-related goodness. Here you'll find 
 |         |         |
 |---------|---------|
 | **Shop Setup** | It seems reasonable that before I can create much with hand tools, I have to make sure they are all ready to work! *[See Shop Setup posts](/tag/shop-setup)*<br>![ShopPile](https://euclidstoolworks.github.io/substack-automation/assets/dad_shop.jpg) |
-| **Roman Workbench** | Planning my shop’s heavyweight champ with joinery older than my toolbox. It’ll be the rock for every craft! *[See Roman Workbench posts](/tag/roman-workbench)*<br>![Workbench sketch](roman-workbench-image.jpg) |
+| **Roman Workbench** | I'm planning on making this the main bench for the shop. Chris says it's great for chairs, I hope it will do the job for casework as well. The picture's the goal line and a placeholder until I get the materials finalized. *[See Roman Workbench posts](/tag/roman-workbench)*<br>![The Goal line](https://euclidstoolworks.github.io/substack-automation/assets/roman-workbench-placeholder.jpg) |
 | **Tool Chest** | Sketching a chest with dovetails tight as a drum to keep my tools ready. A shop must, maybe sellable later! *[See Tool Chest posts](/tag/tool-chest)*<br>![Chest dovetails](tool-chest-image.jpg) |
 
 ### Making Bread
