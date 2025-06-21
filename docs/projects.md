@@ -21,7 +21,7 @@ This page is meant to be an index to project-related goodness. Here you'll find 
 
 |         |         |
 |---------|---------|
-| **Bookcase Refurbishment** | Eyeing my ‘60s bookcase for Euclid’s geometric carvings—nostalgia’s calling. Gonna be a wild carving ride! *[See Bookcase posts](/tag/bookcase)*<br>![Carving sketch](bookcase-image.jpg) |
+| **Bookcase Restoration** | This thing has been with me from the very beginning, probably since I was three or four. At the very least it's going get stripped and refinished. If possible, it will get some abstract Christian symbols carved in the sides. *[See Bookcase posts](/tag/bookcase)*<br>![Bookcase Before](https://euclidstoolworks.github.io/substack-automation/assets/bookcase_pile.jpg) |
 | **Stick Chairs** | Dreaming of swapping my dining chairs for handcrafted stick chairs—thanks, Chris! Joinery’s set to thrill and torment! *[See Stick Chair posts](/tag/stick-chairs)*<br>![Chair sketch](stick-chairs-image.jpg) |
 
 *Got a shop dream or early flop? Comment or subscribe for more sawdust shenanigans!*
