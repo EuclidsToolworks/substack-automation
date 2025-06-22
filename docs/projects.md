@@ -25,6 +25,6 @@ Welcome to the hub for all things project-related! This page lists ETW's woodwor
 | **Bookcase Restoration** | This bookcase has been with me since I was a kid—probably three or four. It’s getting a full strip-and-refinish, and if I can pull it off, I’ll carve some Christian-inspired designs into the sides. *[See Bookcase posts](/tag/bookcase)*<br>![Bookcase Before](https://euclidstoolworks.github.io/substack-automation/assets/bookcase_pile.jpg) |
 | **Stick Chairs** | I never thought chairs were my thing—modern ones just didn’t click. Then I saw what Chris Schwarz and others were doing with stick chairs, and my mind changed. Chris works incredibly hard to remove the barriers to chair-making. I guess it worked on me. I’m swapping out my dining chairs for Welsh Stick Chairs to start. Who knows, maybe I’ll sell some later! *[See Stick Chair posts](/tag/stick-chairs)*<br>[![Welsh Stick Chair](https://euclidstoolworks.github.io/substack-automation/assets/bs-chair.jpg)](https://lostartpress.com/products/build-a-chair-from-bulls-t) |
 
-*This is only the beginning, Euclid's Toolworks. What about you? I'd really like to hear what all y'all got goin' on.  Drop me a line—I’d love to hear what you’re up to or what you want me to try next!*
+*This is just the start for Euclid's Toolworks. What about you? I'd really like to hear what all y'all got goin' on.  Drop me a line—I’d love to hear what you’re up to or what you want me to try next!*
 
 [^1]: These projects are meant to keep the shop humming, or at least show what Euclid’s Toolworks is all about.
