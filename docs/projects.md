@@ -15,7 +15,7 @@ Welcome to the hub for all things project-related! This page lists ETW's woodwor
 
 |         |         |
 |---------|---------|
-| **Artisan Geometry Tools** | The plan’s to craft the tools from *Euclid’s Door* as individual tools or sets, using U.S. native woods. *[See Artisan Geometry Tools posts](/tag/geometry-tools)*<br>![Geometry Tools](https://euclidstoolworks.github.io/substack-automation/assets/geometry-tools-placeholder.jpg) |
+| **Artisan Geometry Tools** | The plan’s to craft the tools from *Euclid’s Door* as individual tools or sets, using U.S. native woods. *[See Artisan Geometry Tools posts](/tag/geometry-tools)*<br>[![Geometry Tools](https://euclidstoolworks.github.io/substack-automation/assets/geometry-tools-placeholder.jpg)](https://www.byhandandeye.com/a-look-through-euclids-door/) |
 | **Portable Knock-down Workbench** | There’s a bunch of plans out there, but Mike Taylor’s at Taylor Toolworks is top-notch. I’m tweaking it to make the top MFT-compatible and adding some T-slots for extra flair. *[See Portable Knock-down Workbench posts](/tag/jigs)*<br>![Portable Knock-down Workbench](https://euclidstoolworks.github.io/substack-automation/assets/portable-knock-down-workbench.jpg) |
 
 ## Crafting with Meaning
