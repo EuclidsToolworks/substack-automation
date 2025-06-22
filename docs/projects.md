@@ -3,7 +3,7 @@
 !!! info "Publisher's Note"
     You'll notice that some of the placeholder images on this page are not mine. They are temporary until I can get some snaps of all of this work in progress.  In the cases where I've chosen to use other's images, the links will drive traffic to the appropriate site, where you can find a wealth of knowledge, well worth investigating.
 
-Welcome to the hub for all things project-related! This page lists ETW's woodworking projects, with links to posts diving into the nitty-gritty details—"The Thrill of Vicotory"/"The Agony of Defeat", all that good stuff. I’ve tossed in extra pics, sketches, and plans where I can, despite Substack’s quirks. Use this as a roadmap for what’s coming up, with placeholders that’ll fill out as I get more details.
+Welcome to the hub for all things project-related! This page lists ETW's woodworking projects, with links to posts diving into the nitty-gritty details—"The Thrill of Vicotory—The Agony of Defeat", all that good stuff. I’ve tossed in extra pics, sketches, and plans where I can, despite Substack’s quirks. Use this as a roadmap for what’s coming up, with placeholders that’ll fill out as I get more details.
 
 ## Building the Foundation
 
