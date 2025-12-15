@@ -13,7 +13,7 @@ Chris Schwarz offers free downloads of all of his books in PDF format. All of th
 
 #### The Anarchist's Series
 
-[The Anarchist's Tool Chest: Revised Edition](https://lostartpress.com/products/the-anarchists-tool-chest?_pos=6&_psq=+Anarchist%27s&_ss=e&_v=1.0)[^2]
+[The Anarchist's Tool Chest: Revised Edition](https://lostartpress.com/products/the-anarchists-tool-chest) [(pdf)](https://blog.lostartpress.com/wp-content/uploads/2025/08/ATC_AUG-2025.pdf)
 
 [The Anarchist's Design Book: Expanded Edition](https://lostartpress.com/products/the-anarchists-design-book?_pos=2&_sid=e40acc0da&_ss=r&_fid=ecaab3f0a) [(pdf)](https://blog.lostartpress.com/wp-content/uploads/2024/02/ADB_expanded_2024.pdf)
 
@@ -23,7 +23,7 @@ Chris Schwarz offers free downloads of all of his books in PDF format. All of th
 
 [Build A Chair From Bulls%$t](https://lostartpress.com/products/build-a-chair-from-bulls-t?_pos=1&_psq=+build+a+chair&_ss=e&_v=1.0) [(pdf)](https://blog.lostartpress.com/wp-content/uploads/2025/05/BACFBS_book.pdf) [(full-size patterns)](https://blog.lostartpress.com/wp-content/uploads/2025/05/BACFBS-full-size-patterns-for-download-and-printing.pdf)
 
-[The Stick Chair Book: Revised Edition](https://lostartpress.com/products/the-stick-chair-book?_pos=6&_psq=+chair&_ss=e&_v=1.0) [(pdf)](https://blog.lostartpress.com/wp-content/uploads/2023/09/The-Stick-Chair-Book-REVISED-2023.pdf)
+[The Stick Chair Book: 2nd Revised Edition](https://lostartpress.com/collections/chairmaking/products/the-stick-chair-book) [(pdf)](https://blog.lostartpress.com/wp-content/uploads/2025/11/The-Stick-Chair-Book-2nd-revised-NOV-2025.pdf)
 
 #### Furniture
 
@@ -31,13 +31,13 @@ Chris Schwarz offers free downloads of all of his books in PDF format. All of th
 
 #### Sharpening
 
-[Sharpen This](https://lostartpress.com/products/sharpen-this?_pos=1&_psq=+Sharpen&_ss=e&_v=1.0&variant=39783356039231)[^3]
+[Sharpen This](https://lostartpress.com/products/sharpen-this?_pos=1&_psq=+Sharpen&_ss=e&_v=1.0&variant=39783356039231)[^2]
 
 #### Workbenches
 
 [Ingenious Mechanicks](https://lostartpress.com/products/ingenious-mechanicks?_pos=1&_psq=+ingenious&_ss=e&_v=1.0) [(pdf)](https://blog.lostartpress.com/wp-content/uploads/2024/12/Ingenious_Mechanicks_4.pdf)
 
-[Video: Build a Roman Workbench](https://lostartpress.com/products/video-build-a-roman-workbench?_pos=4&_psq=+workbench&_ss=e&_v=1.0)[^4]
+[Video: Build a Roman Workbench](https://lostartpress.com/products/video-build-a-roman-workbench?_pos=4&_psq=+workbench&_ss=e&_v=1.0)[^3]
 
 ### Books by Megan Fitzpatrick
 
@@ -73,11 +73,19 @@ This article by *Lost Art Press* answers the question in the authors' own words.
 
 [Make a Chair from a Tree: Third Edition *by Jennie Alexander*](https://lostartpress.com/products/make-a-chair-from-a-tree)
 
-[The Joiner and Cabinet Maker](https://lostartpress.com/products/the-joiner-and-cabinet-maker-1)[^5]
+[Welsh Stick Chairs *by John Brown*](https://lostartpress.com/collections/chairmaking/products/welsh-stick-chairs-by-john-brown)
+
+[The Joiner and Cabinet Maker](https://lostartpress.com/products/the-joiner-and-cabinet-maker-1)[^4]
+
+[James Krenov: Leave Fingerprints *by Brendan Bernhardt Gaffney*](https://lostartpress.com/products/james-krenov-leave-fingerprints)
 
 [The Woodworker: The Charles Hayward Years Vols. 1-4](https://lostartpress.com/products/the-woodworker-vols-1-4?_pos=2&_sid=56eb0681e&_ss=r&variant=41514873454655)
 
-[Making Things Work: Tales from a Cabinetmaker’s Life (Second Edition) *by Nancy R. Hiller*](https://lostartpress.com/products/making-things-work-tales-from-a-cabinetmaker-s-life?_pos=1&_sid=45cd586ce&_ss=r)
+[The Woodworker's Pocket Book *Edited by Charles Hayward*](https://lostartpress.com/products/the-woodworker-s-pocket-book)
+
+[Making Things Work: Tales from a Cabinetmaker’s Life (Second Edition) *by Nancy R. Hiller*](https://lostartpress.com/products/making-things-work-tales-from-a-cabinetmaker-s-life)
+
+[Make Fresh Milk Paint *by Nick Kroll*](https://lostartpress.com/products/make-fresh-milk-paint)
 
 [Make a Swedish Tool Chest *with Whitney Miller*](https://lostartpress.com/products/make-a-swedish-tool-chest-with-whitney-miller)
 
@@ -95,9 +103,13 @@ This article by *Lost Art Press* answers the question in the authors' own words.
 
 [Principles of Design: Furniture, Pottery & Metalwork *by William H. Varnum*](https://lostartpress.com/products/principles-of-design-furniture-clay-glass?_pos=1&_psq=+Principles+&_ss=e&_v=1.0)
 
+[Woodworking In Estonia: Historical Survey *by Ants Viires, Translated by Mart Aru*](https://lostartpress.com/collections/historical-texts/products/woodworking-in-estonia)
+
 [The Essential Woodworker *by Robert Wearing*](https://lostartpress.com/products/the-essential-woodworker?_pos=1&_psq=+The+Essential&_ss=e&_v=1.0&variant=41325887848511)
 
-### Paul Sellers[^6]
+[Good Work: The Chairmaking Like of John Brown *by Christopher Williams](https://lostartpress.com/collections/chairmaking/products/good-work-the-chairmaking-life-of-john-brown)
+
+### Paul Sellers[^5]
 
 Paul has several different websites and blogs that I follow, and I learn a lot from him. I mean, the guy has a video on how to make the front knob (tote?) on a plane with hand tools—no lathe. That’s something to aspire to.
 
@@ -111,7 +123,7 @@ Paul has several different websites and blogs that I follow, and I learn a lot f
 
 [Essential Woodworking Hand Tools (Book & DVD Set)](https://rokesmith.com/product/essential-woodworking-hand-tools-book-dvd-set)
 
-## Other Sellers[^7]
+## Other Sellers[^6]
 
 [Reproducing Antique Furniture: Instructions and Measured Drawings for 40 Classic Projects *By Franklin H. Gottshall*](https://store.doverpublications.com/products/9780486279763)
 
@@ -121,14 +133,12 @@ Paul has several different websites and blogs that I follow, and I learn a lot f
 
 [^1]: There's only one university in Missouri where you can get a Library Science degree. The commute was ridiculous for a guy with a large family and a full-time career, so I gave it up when a new baby came along.
 
-[^2]: This is a placeholder. The edition I currently own is no longer on the ***LAP*** site. This edition is out of stock and will be replaced by the newest edition of the book. The new book is a significant rewrite. This link will be updated and the PDF download will be added when it's available on the ***LAP*** site.
+[^2]: Oddly enough, there doesn't seem to be a free PDF of this book.
 
-[^3]: Oddly enough, there doesn't seem to be a free PDF of this book.
+[^3]: This is going to be the primary workbench at Euclid's Toolworks once it's finished. I still have my doubts, but I like the way that it follows the ***KISS*** principle, and it's probably the least expensive option. Although a company in St. Louis that specializes in reclaimed lumber, who shall remain nameless, wanted to charge me over $700 just for the wood. I think they didn't want my business.
 
-[^4]: This is going to be the primary workbench at Euclid's Toolworks once it's finished. I still have my doubts, but I like the way that it follows the ***KISS*** principle, and it's probably the least expensive option. Although a company in St. Louis that specializes in reclaimed lumber, who shall remain nameless, wanted to charge me over $700 just for the wood. I think they didn't want my business.
+[^4]: The audio book is read by Roy Underhill of The Woodwright Shop fame.
 
-[^5]: The audio book is read by Roy Underhill of The Woodwright Shop fame.
+[^5]: I don't follow or subscribe to many YouTube woodworkers, but Paul's experience makes his content worth the trouble.
 
-[^6]: I don't follow or subscribe to many YouTube woodworkers, but Paul's experience makes his content worth the trouble.
-
-[^7]: My first choice for buying books is always the original author or publisher, next independent booksellers. You'll only see big corporate booksellers on this page as a last resort.
+[^6]: My first choice for buying books is always the original author or publisher, next independent booksellers. You'll only see big corporate booksellers on this page as a last resort.
